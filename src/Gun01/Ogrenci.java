@@ -5,6 +5,7 @@ public class Ogrenci {
         for (int i = 0; i < 5; i++) {
             System.out.println("Merhaba");
         }
+        System.out.println("Merhaba");
 
     }
 }
